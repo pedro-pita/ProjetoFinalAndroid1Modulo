@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padMain">14dp</dimen>
+    <dimen name="logoText">30sp</dimen>
+    <dimen name="buttonSize">35sp</dimen>
+    <dimen name="titleSize">30sp</dimen>
+    <dimen name="logoItem">50dp</dimen>
+    <dimen name="marginImageItem">15dp</dimen>
+    <dimen name="itemName">30sp</dimen>
+    <dimen name="paddingCard">15dp</dimen>
+    <dimen name="paddingLinearItem">15dp</dimen>
+    <dimen name="paddingButton">5dp</dimen>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nomeProf">
+        <item>Andreia Brites</item>
+        <item>Silvestre</item>
+        <item>Rui Silva</item>
+        <item>Sergio Araujo</item>
+        <item>Maria Freitas</item>
+        <item>Isabel</item>
+        <item>Otília Paiva</item>
+    </string-array>
+    <string-array name="especialidadeProf">
+        <item>Português</item>
+        <item>Matematica</item>
+        <item>Informatica</item>
+        <item>Programação</item>
+        <item>Ingles</item>
+        <item>Fisica e Quimica</item>
+        <item>Psicologia</item>
+    </string-array>
+    <string-array name="idadeProf">
+        <item>32</item>
+        <item>38</item>
+        <item>49</item>
+        <item>35</item>
+        <item>38</item>
+        <item>52</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="nomeAluno">
+        <item>Afonso Inacio</item>
+        <item>Agostinho Carvalho</item>
+        <item>Alexandre Baeta</item>
+        <item>Carlos Freitas</item>
+        <item>Diogo Pita</item>
+        <item>Duque Moniz</item>
+        <item>Hélder Nunes</item>
+        <item>José Gouveia</item>
+        <item>Lourenço Ferraz</item>
+        <item>Luís Prioste</item>
+        <item>Mikey Baptista</item>
+        <item>Miriam Fernandes</item>
+        <item>Pedro Pita</item>
+        <item>Rafael Só</item>
+        <item>Ricardo Araújo</item>
+        <item>Rúben Teixeira</item>
+        <item>Tiago Fernandes</item>
+        <item>Tiago Freitas</item>
+        <item>Tomás Ferreira</item>
+        <item>Luís Correia</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zicronofandroid.avaliacaofinal1pedropita.MainActivity"
+    android:background="@color/preto">
+
+        <LinearLayout
+            android:id="@+id/linear1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/padMain" >
+
+            <ImageView
+                android:id="@+id/logotipo"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:src="@drawable/epcc" />
+
+            <TextView
+                android:id="@+id/titulo"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="@string/escolaAbreviatura"
+                android:gravity="center"
+                style="@style/logoText"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_below="@+id/linear1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="@dimen/padMain" >
+            <Button
+                android:id="@+id/professores"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/buttonProf"
+                style="@style/buttonType2" />
+
+            <Button
+                android:id="@+id/alunos"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/buttonAlunos"
+                style="@style/buttonType1"/>
+
+      </LinearLayout>
+</RelativeLayout>
+
+

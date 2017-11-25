@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cristovão Colombo</string>
+    <string name="pedirMensagem">Indique a mensagem</string>
+    <string name="pedirHoras">Indique as horas</string>
+    <string name="pedirMinutos">Indique os minutos</string>
+    <string name="ativarAlarme">Ativar Alarme</string>
+    <string name="escolaAbreviatura">EPCC</string>
+    <string name="buttonProf">Professores</string>
+    <string name="buttonAlunos">Alunos</string>
+    <string name="nomeTitle">Nome</string>
+    <string name="especialidadeTitle">Especialidade</string>
+    <string name="idadeTitle">Idade</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="horas">Horas</string>
+    <string name="minutos">Minutos</string>
+    <string name="tituloAlunos">Alunos</string>
+</resources>

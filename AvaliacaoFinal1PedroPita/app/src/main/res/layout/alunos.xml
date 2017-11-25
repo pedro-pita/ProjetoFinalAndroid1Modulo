@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/tituloAlunos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tituloAlunos"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            style="@style/tituloAlunos"/>
+        <fragment class="com.zicronofandroid.avaliacaofinal1pedropita.alunosMostrar"
+            android:id="@+id/links"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tituloAlunos"/>
+    </RelativeLayout>
+</FrameLayout>

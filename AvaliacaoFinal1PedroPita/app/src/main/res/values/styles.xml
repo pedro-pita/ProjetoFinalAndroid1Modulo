@@ -1,0 +1,47 @@
+<resources>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="logoText" parent="AppBaseTheme">
+        <item name="android:textColor">@color/branco</item>
+        <item name="android:textSize">@dimen/logoText</item>
+    </style>
+    <style name="buttonType1" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/buttonSize</item>
+        <item name="android:textColor">@color/logotipo</item>
+        <item name="android:background">@color/branco</item>
+    </style>
+    <style name="buttonType2" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/buttonSize</item>
+        <item name="android:textColor">@color/branco</item>
+        <item name="android:background">@color/logotipo</item>
+    </style>
+    <style name="buttonType3" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/buttonSize</item>
+        <item name="android:textColor">@color/logotipo</item>
+    </style>
+    <style name="textPrimary" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/titleSize</item>
+        <item name="android:textColor">@color/branco</item>
+        <item name="android:background">@color/logotipo</item>
+    </style>
+    <style name="textSecundary" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/titleSize</item>
+        <item name="android:textColor">@color/logotipo</item>
+    </style>
+    <style name="itemName" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/itemName</item>
+        <item name="android:textColor">@color/logotipo</item>
+    </style>
+    <style name="tituloAlunos" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/tituloAlunos</item>
+        <item name="android:background">@color/preto</item>
+        <item name="android:textColor">@color/logotipo</item>
+    </style>
+
+    <dimen name="tituloAlunos">65sp</dimen>
+</resources>
